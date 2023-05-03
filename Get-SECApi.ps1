@@ -305,7 +305,11 @@ $allCIKs = @{
 
 
 
+
 # === testing ===
+
+<#
+
 # do an auto-request
 $abc = Read-Host "Please enter a Company Name you're looking for"
 
@@ -332,3 +336,5 @@ function do-Lookup(){
     }
 
 # https://www.sec.gov/edgar/searchedgar/cik
+
+#>
