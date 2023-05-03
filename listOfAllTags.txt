@@ -1,0 +1,33 @@
+$listOfAllTags = @{
+  "UnamortizedDebtIssuanceExpense" = "UnamortizedDebtIssuanceExpense"
+  "StockholdersEquity" = "StockholdersEquity"
+  "ShareBasedCompensation" = "ShareBasedCompensation"
+  "SellingGeneralAndAdministrativeExpense" = "SellingGeneralAndAdministrativeExpense"
+  "Revenues" = "Revenues"
+  "ResearchAndDevelopmentExpense" = "ResearchAndDevelopmentExpense"
+  "ProductWarrantyExpense" = "ProductWarrantyExpense"
+  "OtherNonoperatingIncomeExpense" = "OtherNonoperatingIncomeExpense"
+  "OtherNoncashIncomeExpense" = "OtherNoncashIncomeExpense"
+  "OperatingIncomeLoss" = "OperatingIncomeLoss"
+  "OperatingExpenses" = "OperatingExpenses"
+  "NetIncomeLoss" = "NetIncomeLoss"
+  "NetCashProvidedByUsedInOperatingActivities" = "NetCashProvidedByUsedInOperatingActivities"
+  "NetCashProvidedByUsedInContinuingOperations" = "NetCashProvidedByUsedInContinuingOperations"
+  "MarketingAndAdvertisingExpense" = "MarketingAndAdvertisingExpense"
+  "LitigationSettlementExpense" = "LitigationSettlementExpense"
+  "InterestPaid" = "InterestPaid"
+  "InterestExpense" = "InterestExpense"
+  "IncomeTaxExpenseBenefit" = "IncomeTaxExpenseBenefit"
+  "EmployeeServiceShareBasedCompensationAllocationOfRecognizedPeriodCostsCapitalizedAmount" = "EmployeeServiceShareBasedCompensationAllocationOfRecognizedPeriodCostsCapitalizedAmount"
+  "CommonStockValue" = "CommonStockValue"
+  "AllocatedShareBasedCompensationExpense" = "AllocatedShareBasedCompensationExpense"
+}
+
+
+
+
+$listOfAllTags = @{
+    "NetCashProvidedByUsedInOperatingActivities" = "NetCashProvidedByUsedInOperatingActivities"
+  "NetCashProvidedByUsedInContinuingOperations" = "NetCashProvidedByUsedInContinuingOperations"
+
+}
